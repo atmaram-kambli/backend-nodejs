@@ -1,0 +1,1 @@
+Hey, this is the sample file and you can see this because I use express.static middleware function in my express app
