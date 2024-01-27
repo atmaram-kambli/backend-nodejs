@@ -7,11 +7,10 @@
 
 
 // common js method
-const aa = require("./mymodule2.js");
+// const aa = require("./mymodule2.js");
 // console.log(aa);
-// console.log(aa.myDateTime())
 
 // We can also use module in client side programming
-// import akInfo from "./mymodule1.js"
-// console.log(akInfo);
+import akInfo from "./mymodule1.js"
+console.log(akInfo);
 
