@@ -1,6 +1,6 @@
 # REST API
 
-reference - https://www.freecodecamp.org/news/what-is-a-rest-api/
+reference - 
 
 ### API - Application Programming Interface
 
@@ -29,10 +29,13 @@ reference - https://www.freecodecamp.org/news/what-is-a-rest-api/
 
 #### Real life example scenario
 
-- API : Think of an API as the "menu" in the restaurant. The menu list all the options, along with how to ask for them and what will you get back.
+```
+Consider the Restaurant, where the cusotomer is client and the cook of restaurant is server
 
-- REST API : A REST API is like a waiter who follows specific rules to take the order and serve the food.
+API - Now, think of API as 'menucard', You as a client look into the menucard, decides yours options and asks for the cook for the food.
 
+REST API - Now, A REST API is like a waiter who follows specific rules to take the order and serve the food.
+```
 
 
 REST API are just one of the type of API which makes communication between applications more scalabe and efficient
